@@ -7,10 +7,11 @@
 响应：系统下载选中申请表到指定位置
 刺激：管理员退出下载
 响应：系统关闭下载任务
-编号 | 需求描述
----------|----------
- Admin.GetForm.List | 系统可以显示申请表的列表并选择
- Admin.Recruit.FormDDL | 系统获取此次招生的申请ddl
- Admin.GetForm.address | 系统可以设置下载路径
- Admin.GetForm.Download | 系统可以按指定路劲下载指定申请表
- Admin.GetForm.Cancel | 系统可以终止下载过程
+
+|编号 | 需求描述|
+|---------|----------|
+|Admin.GetForm.List | 系统可以显示申请表的列表并选择|
+|Admin.Recruit.FormDDL | 系统获取此次招生的申请ddl|
+|Admin.GetForm.address | 系统可以设置下载路径|
+|Admin.GetForm.Download | 系统可以按指定路劲下载指定申请表|
+|Admin.GetForm.Cancel | 系统可以终止下载过程|
